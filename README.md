@@ -60,7 +60,7 @@
 ## 🐰 Let’s Connect 🌷
 
 📧 Email: [nazwa9960@gmail.com](mailto:nazwa9960@gmail.com)  
-🎀 Instagram: [@naazln.lsha](https://instagram.com/nsszln.lsha)
+🎀 Instagram: [@naazln.lsha](https://instagram.com/naazln.lsha)
 
 ---
 
