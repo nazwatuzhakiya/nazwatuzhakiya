@@ -16,7 +16,7 @@
 
 ## 🌷 About Me 🍓
 
-💖 Hi cutiee~ I'm **Nazwa Tuzhakiya Latansha**  
+💖 Hi cutiee~ I'm **Nazwatuzhakiya Latansha**  
 🎓 A passionate **student at Politeknik Negeri Subang**  
 🌱 Currently learning about **Web Development** & building **fun personal projects**  
 🐰 I love cute designs, soft pink colors, and learning new things every day~!
