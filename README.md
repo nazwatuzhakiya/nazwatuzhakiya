@@ -49,7 +49,7 @@
 
 📧 Email: [nazwa9960@gmail.com](mailto:nazwa9960@gmail.com)  
 🌐 Portfolio: *coming soon...*  
-🎀 Instagram: [@yourusername](https://instagram.com) *(optional)*
+🎀 Instagram: [@naazln.lsha](https://instagram.com) *(optional)*
 
 ---
 
