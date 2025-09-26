@@ -45,15 +45,17 @@
 
 ---
 
-## 🐍 Pink Snake Contribution Animation
+## 🎀 Cute Animated Section ✨
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazwatuzhakiya/nazwatuzhakiya/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazwatuzhakiya/nazwatuzhakiya/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nazwatuzhakiya/nazwatuzhakiya/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  🌸✨ Coding with happiness and pink energy ✨🌸
+</p>
 
 ---
 
