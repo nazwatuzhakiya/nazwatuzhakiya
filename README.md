@@ -1,13 +1,13 @@
-<!-- 💖 Animated intro text -->
+<!-- 🌸✨ Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+Sweetie+🍓+I'm+Nazwatuzhakiya+Latansha+🌸;✨+Student+from+Politeknik+Negeri+Subang+🎓;🌷+Web+Dev+Learner+and+Project+Maker+🌈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=600&lines=Hii+Sweetie+🍓+I'm+Nazwatuzhakiya+Latansha+🌸;✨+Student+of+Informatics+Engineering+💻;📍+Politeknik+Negeri+Subang+🎓;🌷+Web+Dev+Learner+and+Project+Maker+🌈" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- 🪄 Pink Badges -->
+<!-- 🎀 Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎀_Student-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎀_Informatics_Student-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/🌸_Web_Dev_Learner-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/💻_Code_with_Love-FFC0CB?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -17,7 +17,7 @@
 ## 🌷 About Me 🍓
 
 💖 Hi cutiee~ I'm **Nazwatuzhakiya Latansha**  
-🎓 A passionate **student at Politeknik Negeri Subang**  
+🎓 A passionate student from **Informatics Engineering - Politeknik Negeri Subang**  
 🌱 Currently learning about **Web Development** & building **fun personal projects**  
 🐰 I love cute designs, soft pink colors, and learning new things every day~!
 
@@ -45,11 +45,22 @@
 
 ---
 
+## 🐍 Pink Snake Contribution Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazwatuzhakiya/nazwatuzhakiya/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazwatuzhakiya/nazwatuzhakiya/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nazwatuzhakiya/nazwatuzhakiya/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🐰 Let’s Connect 🌷
 
 📧 Email: [nazwa9960@gmail.com](mailto:nazwa9960@gmail.com)  
-🌐 Portfolio: *coming soon...*  
-🎀 Instagram: [@naazln.lsha](https://instagram.com) *(optional)*
+🎀 Instagram: [@naazln.lsha](https://instagram.com/nsszln.lsha)
 
 ---
 
