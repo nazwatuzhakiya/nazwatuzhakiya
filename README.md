@@ -45,16 +45,15 @@
 
 ---
 
-## 🎀 Cute Animated Section ✨
+## 🍓 Lotso Animation Section ✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/ZbVdF6tGECbFq/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="250" />
 </p>
 
 <p align="center">
-  🌸✨ Coding with happiness and pink energy ✨🌸
+  🍓✨ Lotso says: "Keep coding and stay sweet!" ✨🍓
 </p>
 
 ---
@@ -62,7 +61,7 @@
 ## 🐰 Let’s Connect 🌷
 
 📧 Email: [nazwa9960@gmail.com](mailto:nazwa9960@gmail.com)  
-🎀 Instagram: [@naazln.lsha](https://instagram.com/nsszln.lsha)
+🎀 Instagram: [@nsszln.lsha](https://instagram.com/nsszln.lsha)
 
 ---
 
@@ -71,5 +70,5 @@
 </p>
 
 <p align="center">
-  ✨ <b>Coding with pink vibes and happy energy!</b> ✨
+  ✨ <b>Coding with pink vibes and Lotso hugs!</b> ✨
 </p>
