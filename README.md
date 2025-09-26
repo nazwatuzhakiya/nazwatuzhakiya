@@ -1,35 +1,46 @@
-# 👋 Hi there, I'm Nazwa T. L.!
-
-🎓 I'm a student at **Politeknik Negeri Subang**, passionate about learning and exploring the world of technology.  
-💻 Currently focusing on building **personal projects** while improving my skills in programming and software development.  
-🌱 Always curious and excited to learn something new every day.
+<!-- 🌸✨ Welcome Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hii+I'm+Nazwa+💖;A+Happy+Student+from+Politeknik+Negeri+Subang+🎓;Learning+Code+One+Step+at+a+Time+🌱" alt="Typing SVG" />
 
 ---
 
-## 🛠️ Tech Stack (Still Learning)
-- 💻 Languages: HTML, CSS, JavaScript, PHP  
-- 🗄️ Databases: MySQL  
-- 🛠️ Tools: Git, VSCode  
-- 🧰 Interests: Web Development, Backend, and UI/UX Basics
+## 🌸 About Me
+
+🎀 Hi! I'm **Nazwa Tuzhakiya Latansha**  
+📚 A student from **Politeknik Negeri Subang**  
+💻 Learning and growing in **Web Development & Programming**  
+🌱 I love building **personal projects** and exploring new tech ✨
 
 ---
 
-## 📈 GitHub Stats
-![Nazwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazwatuzhakiya&show_icons=true&theme=tokyonight)
+## 💕 My Tech Playground
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwatuzhakiya&layout=compact&theme=tokyonight)
+💻 **Languages:** HTML • CSS • JavaScript • PHP  
+🛠️ **Tools:** Git • VSCode • Figma  
+📊 **Database:** MySQL  
 
----
-
-## 🚀 About Me
-- 🌟 I enjoy working on **personal projects** to practice and apply what I learn.  
-- 📚 Currently exploring **web development** and improving my coding fundamentals.  
-- 🤝 Open to collaboration and excited to learn from other developers.
+> 🧠 Currently learning and experimenting with cool web projects!
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-- 🌐 Portfolio: *coming soon...*
+## ✨ GitHub Stats (Pink Style!)
 
-✨ *"Every line of code is a step closer to my dream."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazwatuzhakiya&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=141321" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwatuzhakiya&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=f8c8dc&bg_color=141321" alt="Top Langs" height="165" />
+</p>
+
+---
+
+## 🐰 Let's Connect!
+
+📧 **Email:** [nazwa9960@gmail.com](mailto:nazwa9960@gmail.com)  
+🎀 **Instagram:** [@yourusername](https://instagram.com/) *(optional)*  
+🌐 **Portfolio:** *coming soon...*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI3YTRiY2M3MGM0NzRjNzU0MzBlODJmZTI4ZmFhZmY3OWQ2NjgxNiZjdD1n/llKJGxQ1ESmac/giphy.gif" width="150px" />
+</p>
+
+<p align="center">✨ *"Coding with pink vibes and a happy heart!"* ✨</p>
