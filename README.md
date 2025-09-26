@@ -1,6 +1,6 @@
 <!-- 💖 Animated intro text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+Sweetie+🍓+I'm+Nazwa+Tuzhakiya+Latansha+🌸;✨+Student+from+Politeknik+Negeri+Subang+🎓;🌷+Web+Dev+Learner+and+Project+Maker+🌈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+Sweetie+🍓+I'm+Nazwatuzhakiya+Latansha+🌸;✨+Student+from+Politeknik+Negeri+Subang+🎓;🌷+Web+Dev+Learner+and+Project+Maker+🌈" alt="Typing SVG" />
 </p>
 
 ---
