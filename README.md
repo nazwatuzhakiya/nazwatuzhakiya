@@ -19,7 +19,7 @@
 💖 Hi cutiee~ I'm **Nazwatuzhakiya Latansha**  
 🎓 A passionate student from **Informatics Engineering - Politeknik Negeri Subang**  
 🌱 Currently learning about **Web Development** & building **fun personal projects**  
-🐰 I love cute designs, soft pink colors, and learning new things every day~!
+🐻 I love cute designs, soft pink colors, and learning new things every day~!
 
 ---
 
@@ -45,15 +45,14 @@
 
 ---
 
-## 🍓 Lotso Animation Section ✨
+## 🍓 Lotso Mood Section 🐻🌸
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZbVdF6tGECbFq/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="250" />
+<p align="center" style="font-size: 1.5rem;">
+  🍓🐻✨💻🌸💡🍓🐻✨💻🌸💡🍓🐻✨💻🌸💡  
 </p>
 
 <p align="center">
-  🍓✨ Lotso says: "Keep coding and stay sweet!" ✨🍓
+  🍓 <b>“Keep coding, stay sweet, and spread pink energy!”</b> 🐻
 </p>
 
 ---
@@ -65,10 +64,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI3YTRiY2M3MGM0NzRjNzU0MzBlODJmZTI4ZmFhZmY3OWQ2NjgxNiZjdD1n/llKJGxQ1ESmac/giphy.gif" width="180px" />
+<p align="center" style="font-size: 1.8rem;">
+  ✨💻🌸🐻🍓✨💻🌸🐻🍓✨💻🌸🐻🍓✨
 </p>
 
 <p align="center">
   ✨ <b>Coding with pink vibes and Lotso hugs!</b> ✨
 </p>
+
