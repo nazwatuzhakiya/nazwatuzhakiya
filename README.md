@@ -27,7 +27,7 @@
 
 | 💡 Category | 🌸 Technologies I'm Learning |
 |------------|------------------------------|
-| 🧑‍💻 Languages | HTML, CSS, JavaScript, PHP |
+| 🧑‍💻 Languages | Phyton, CSS, JavaScript, PHP |
 | 🛠️ Tools | Git, VSCode, Figma |
 | 🗄️ Database | MySQL |
 | 🎨 Interests | Web Dev, Backend, UI/UX Basics |
