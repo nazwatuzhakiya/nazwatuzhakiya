@@ -5,7 +5,7 @@
 
 ## 🌸 About Me
 
-🎀 Hi! I'm **Nazwa Tuzhakiya Latansha**  
+🎀 Hi! I'm **Nazwatuzhakiya Latansha**  
 📚 A student from **Politeknik Negeri Subang**  
 💻 Learning and growing in **Web Development & Programming**  
 🌱 I love building **personal projects** and exploring new tech ✨
